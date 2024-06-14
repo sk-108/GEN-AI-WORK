@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+fastapi
+uvicorn
+langchain
+langchain-community
+google-generativeai
+requests
+langchain_core
